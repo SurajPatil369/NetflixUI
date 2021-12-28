@@ -1,0 +1,11 @@
+{
+  "name": "netflix-master",
+  "version": "1.0.0",
+  "description": "Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
